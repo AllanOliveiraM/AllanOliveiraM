@@ -1,18 +1,13 @@
-# Hi there 👋
+<div align="center">
 
-## This piece of code is still being developed, but hey! don't forget to go here by after a while :)
+# Oi, eu sou o Allan 👋
 
-<!--
-**AllanOliveiraM/AllanOliveiraM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tech Lead e Engenheiro Full-Stack na Grano Safe**
 
-Here are some ideas to get you started:
+Atualmente, estou construindo o [Albert Engine](https://github.com/AllanOliveiraM/albert-engine), um universo 3D em tempo real com física e simulação de voo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gosto de criar coisas úteis e trocar ideias sobre tecnologia. Vai ser um prazer conhecer você também!
+
+[LinkedIn](https://www.linkedin.com/in/allan-miraballes/) · [Meus projetos](https://github.com/AllanOliveiraM)
+
+</div>
